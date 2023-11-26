@@ -1,4 +1,4 @@
-# Cricket-Dream-Team-Analyser
+# Cricket-Dream-Team-Analyser Using PowerBI
 
 # Problem Statement
 A cricket dream team analyzer aims to address the challenges cricket enthusiasts face in optimizing their fantasy cricket teams for various formats of the game. The problem statement involves designing a tool that provides users with insights, statistics, and recommendations to help them strategically select players and make informed decisions when creating their dream cricket teams.
