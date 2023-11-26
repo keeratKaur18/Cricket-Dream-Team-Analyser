@@ -14,6 +14,7 @@ The objective is to create a balanced team capable of scoring an average of 180 
 * Openers
 <img width="695" alt="Screenshot 2023-11-26 at 7 00 55 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/b06909b0-9aa2-402a-9287-085ae157e002">
 
+
 * Anchors/Middle Orders
 <img width="695" alt="Screenshot 2023-11-26 at 7 01 03 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/050d66cd-5b19-4b6c-b33d-0cfc5c96195f">
 
@@ -21,8 +22,10 @@ The objective is to create a balanced team capable of scoring an average of 180 
 * Finisher/Lower Order Anchors
 <img width="695" alt="Screenshot 2023-11-26 at 7 01 12 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/5d31986a-6c15-4c9d-bf69-1ac46a0b663e">
 
+
 *  All Rounders/Lower Orders
 <img width="696" alt="Screenshot 2023-11-26 at 7 12 16 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/6e0f545c-dd8a-433b-b3c1-0ff40a4d8f57">
+
 
 * Specialist Fast Bowlers
 <img width="696" alt="Screenshot 2023-11-26 at 7 01 31 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/56a26377-c6c4-4357-a238-e494c82e531f">
@@ -40,7 +43,7 @@ Once the data is refined and structured appropriately, it is then converted to a
 Data transformation using Power Query is an effective next step. Power Query, often integrated into tools like Microsoft Excel or Power BI, provides a user-friendly interface for additional data shaping and refinement. In our case,we will be integrating it with Power BI.
 
 
-## Step 5: Data Modelling ans Building Parameters using DAX
+## Step 5: Data Modelling and Building Parameters using DAX
 The next step involves data modeling and parameterization using Data Analysis Expressions (DAX). DAX is utilized to create measures, implement time intelligence, and build dynamic parameters for analysis. Optimization ensures performance, and testing validates accuracy. This integration enhances the data model, providing a foundation for insightful reporting and decision-making.
 
 
