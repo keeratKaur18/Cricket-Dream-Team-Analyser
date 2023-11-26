@@ -11,21 +11,20 @@ The objective is to create a balanced team capable of scoring an average of 180 
 
 
 
-### Openers
+* Openers
 <img width="695" alt="Screenshot 2023-11-26 at 7 00 55 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/b06909b0-9aa2-402a-9287-085ae157e002">
 
-### Anchors/Middle Orders
+* Anchors/Middle Orders
 <img width="695" alt="Screenshot 2023-11-26 at 7 01 03 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/050d66cd-5b19-4b6c-b33d-0cfc5c96195f">
 
 
-### Finisher/Lower Order Anchors
+* Finisher/Lower Order Anchors
 <img width="695" alt="Screenshot 2023-11-26 at 7 01 12 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/5d31986a-6c15-4c9d-bf69-1ac46a0b663e">
 
-### 
-<img width="697" alt="Screenshot 2023-11-26 at 7 01 21 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/db3856c6-0da9-4282-ad74-03efe0abd926">
+*  All Rounders/Lower Orders
+<img width="696" alt="Screenshot 2023-11-26 at 7 12 16 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/6e0f545c-dd8a-433b-b3c1-0ff40a4d8f57">
 
-
-### Specialist Fast Bowlers
+* Specialist Fast Bowlers
 <img width="696" alt="Screenshot 2023-11-26 at 7 01 31 AM" src="https://github.com/keeratKaur18/Cricket-Dream-Team-Analyser/assets/98026175/56a26377-c6c4-4357-a238-e494c82e531f">
 
 ## Step 2: Data Collection using Web Scrapping
@@ -56,4 +55,4 @@ Post DAX modeling, visualize data in Power BI. Create, customize visuals, and bu
 
 
 ## Video Demo :
-https://drive.google.com/file/d/10582zH6INMr3pW59qnTvaNcWyCcxHdLZ/view?usp=sharing
+https://drive.google.com/file/d/1orpJTtx5QShct4MC_vk0nKSCbC0W3hQK/view?usp=sharing
